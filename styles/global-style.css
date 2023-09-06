@@ -3,14 +3,13 @@ html {
   color: darkslategray;
   background-color: aliceblue;
 }
-nav {
-  
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
-.head {
-  
-}
-
-.footer {
-  position: absolute bottom;
+footer {
+  margin-top: auto;
 }
