@@ -1,6 +1,13 @@
-.ingredients-container {
+.recipe-container {
  background-color: white;
+ width: 500px;
+ object-position: center;
  border-style: solid;
  border-radius: 3px;
- text-align: center;
-}
+ display: flex;
+ flex-direction: column;
+ }
+ 
+ .list {
+   text-align: center;
+ }
