@@ -1,0 +1,19 @@
+.recipe-container {
+ background-color: white;
+ width: 500px;
+ object-position: center;
+ border-style: solid;
+ border-radius: 3px;
+ display: flex;
+ flex-direction: column;
+ }
+ 
+.recent-photos {
+  background-color: white;
+  width: 500px;
+  object-position: center;
+  border-style: solid;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+}
